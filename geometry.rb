@@ -1,6 +1,6 @@
-require "./rectangle.rb"
-require "./circle.rb"
-require "./square.rb"
+require_relative "rectangle.rb"
+# require "./circle.rb"
+# require "./square.rb"
 
 
 puts Rectangle.area(3,4)
