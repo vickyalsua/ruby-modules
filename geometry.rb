@@ -1,4 +1,4 @@
-require "./rectangle.rb"
+require_relative "rectangle.rb"
 # require "./circle.rb"
 # require "./square.rb"
 
